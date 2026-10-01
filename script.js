@@ -3,7 +3,7 @@ const portfolioConfig = {
   email: "caroline_acevedo@live.com",
   github: "https://github.com/KaritoAM?tab=repositories",
   linkedin: "",
-  cv: "" // Ejemplo: "assets/CV-Caroline-Acevedo.pdf"
+  
 };
 
 document.addEventListener("DOMContentLoaded", () => {
