@@ -1,8 +1,8 @@
 // Personaliza estos datos antes de publicar el sitio.
 const portfolioConfig = {
-  email: "TU_CORREO@ejemplo.com",
-  github: "https://github.com/TU-USUARIO",
-  linkedin: "https://www.linkedin.com/in/TU-PERFIL",
+  email: "caroline_acevedo@live.com",
+  github: "https://github.com/KaritoAM?tab=repositories",
+  linkedin: "",
   cv: "" // Ejemplo: "assets/CV-Caroline-Acevedo.pdf"
 };
 
